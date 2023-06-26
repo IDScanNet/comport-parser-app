@@ -1,0 +1,10 @@
+C:\Users\cgrant2\source\repos\comportParserApp\comportParserApp\bin\Release\comportParserApp.exe.config
+C:\Users\cgrant2\source\repos\comportParserApp\comportParserApp\bin\Release\comportParserApp.exe
+C:\Users\cgrant2\source\repos\comportParserApp\comportParserApp\bin\Release\comportParserApp.pdb
+C:\Users\cgrant2\source\repos\comportParserApp\comportParserApp\bin\Release\IDScanNet.dlplib.dll
+C:\Users\cgrant2\source\repos\comportParserApp\comportParserApp\obj\Release\comportParserApp.csproj.AssemblyReference.cache
+C:\Users\cgrant2\source\repos\comportParserApp\comportParserApp\obj\Release\comportParserApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\cgrant2\source\repos\comportParserApp\comportParserApp\obj\Release\comportParserApp.csproj.CoreCompileInputs.cache
+C:\Users\cgrant2\source\repos\comportParserApp\comportParserApp\obj\Release\comportParserApp.csproj.CopyComplete
+C:\Users\cgrant2\source\repos\comportParserApp\comportParserApp\obj\Release\comportParserApp.exe
+C:\Users\cgrant2\source\repos\comportParserApp\comportParserApp\obj\Release\comportParserApp.pdb
